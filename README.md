@@ -1,1 +1,7 @@
 # Music-with-no-accident
+
+As there are many accidents happening due to people listening to music. We came up with this idea of listening to music with caution. The main reason for these accidents were that the people were not aware of their surrounding. They are so much induldge in their music. They they stop caring about their environment. Their ears become sort of deaf to other noises happening around.
+
+What we want to propose is that, we want to build a background service which can run in every device and starts whenever a music player starts playing songs with the device having headphone, earphone or any audio device connected such car audio system. So, whenever the person is driving car, motorbike or walking on the footpath and listening to music and a car blows horn. The background service will come into play and will sense the noise of horn and will automatically reduce the volume of the sound and will give a feedback in terms of sound and vibration(in case of mobile phone) and this will let the person to get aware of their surrounding so that he/she can make the correct actions to prevent the accident that could happen. In case of car, what the service will do is that it , when connected to the audio system of the car, will do the same thing and alert the car driver about the surrounding so that he/she can save him from accident.
+
+Thus, million of lives can be saved with this service.
